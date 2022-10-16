@@ -1,0 +1,17 @@
+C:\Users\ABASSE\source\repos\Projet2\Projet2\bin\Debug\net6.0-windows\Projet2.exe
+C:\Users\ABASSE\source\repos\Projet2\Projet2\bin\Debug\net6.0-windows\Projet2.deps.json
+C:\Users\ABASSE\source\repos\Projet2\Projet2\bin\Debug\net6.0-windows\Projet2.runtimeconfig.json
+C:\Users\ABASSE\source\repos\Projet2\Projet2\bin\Debug\net6.0-windows\Projet2.dll
+C:\Users\ABASSE\source\repos\Projet2\Projet2\bin\Debug\net6.0-windows\Projet2.pdb
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.vbproj.AssemblyReference.cache
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.Form1.resources
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.vbproj.GenerateResource.cache
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.AssemblyInfoInputs.cache
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.AssemblyInfo.vb
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.vbproj.CoreCompileInputs.cache
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.dll
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\refint\Projet2.dll
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.pdb
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\Projet2.genruntimeconfig.cache
+C:\Users\ABASSE\source\repos\Projet2\Projet2\obj\Debug\net6.0-windows\ref\Projet2.dll
